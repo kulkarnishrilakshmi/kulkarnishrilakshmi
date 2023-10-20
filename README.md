@@ -7,7 +7,7 @@
       🔹 A passionate frontend developer dedicated to creating seamless and
       engaging web experiences. <br />🔹 With a background in computer science
       and a love for design, I found my passion for frontend development and
-      user interface design. <br />🔹 I believe in the power of user-centric
+      UI design. <br />🔹 I believe in the power of user-centric
       design and clean, efficient code to build products that make a difference
       in people's lives. <br />🔹 Constantly exploring new technologies and
       staying on top of the ever-evolving world of frontend development.
@@ -192,8 +192,6 @@
         />
       </a>
     </p>
-
-    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shrilakshmi-kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrilakshmi-kulkarni" height="30" width="40" /></a>
